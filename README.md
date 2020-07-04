@@ -2,4 +2,4 @@
 
 ## I have creted a game using concept of Slingshot.
 
-### Output Link : https://rajdeepjaiswal.github.io/SLINGSHOT-MAZE---PART-1/
+### Since this is the first part the game is partly incomplete. Will complete in the future
